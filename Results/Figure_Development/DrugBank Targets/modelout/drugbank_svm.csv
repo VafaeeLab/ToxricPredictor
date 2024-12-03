@@ -1,0 +1,20 @@
+,Dataset,MCC
+0,Cardiotoxicity_Cardiotoxicity-1_DBtargets.csv,0.0
+1,Endocrine Disruption_SR-ARE_DBtargets.csv,0.19169235233734833
+2,Cardiotoxicity_Cardiotoxicity-5_DBtargets.csv,0.20145574100634508
+3,Endocrine Disruption_SR-MMP_DBtargets.csv,0.2960684541064695
+4,Endocrine Disruption_NR-ER-LBD_DBtargets.csv,0.0
+5,Carcinogenicity_Carcinogenicity_DBtargets.csv,0.0
+6,Endocrine Disruption_SR-HSE_DBtargets.csv,0.0
+7,Hepatotoxicity_Hepatotoxicity_DBtargets.csv,0.2309836260760042
+8,Endocrine Disruption_SR-ATAD5_DBtargets.csv,0.0
+9,Endocrine Disruption_NR-AR_DBtargets.csv,0.5294143019465851
+10,Endocrine Disruption_NR-aromatase_DBtargets.csv,0.12344267996967352
+11,Mutagenicity_Ames Mutagenicity_DBtargets.csv,0.0
+12,Endocrine Disruption_NR-AhR_DBtargets.csv,0.24158828404932842
+13,Cardiotoxicity_Cardiotoxicity-30_DBtargets.csv,0.22771001702132443
+14,Endocrine Disruption_SR-p53_DBtargets.csv,0.0
+15,Endocrine Disruption_NR-ER_DBtargets.csv,0.2639495376721345
+16,Cardiotoxicity_Cardiotoxicity-10_DBtargets.csv,0.3735346445398423
+17,Endocrine Disruption_NR-AR-LBD_DBtargets.csv,0.4158619680502032
+18,Endocrine Disruption_NR-PPAR-gamma_DBtargets.csv,0.0

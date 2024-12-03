@@ -1,0 +1,20 @@
+,Dataset,MCC
+0,NR-ER-LBD_fusion.csv,0.4484047171389978
+1,Cardiotoxicity-1_fusion.csv,0.0
+2,Cardiotoxicity-10_fusion.csv,0.29504946566994195
+3,NR-aromatase_fusion.csv,0.0
+4,NR-ER_fusion.csv,0.09275875716937128
+5,Hepatotoxicity_fusion.csv,0.12002985255523045
+6,SR-ARE_fusion.csv,0.0
+7,SR-HSE_fusion.csv,0.13722155123693863
+8,SR-ATAD5_fusion.csv,0.0
+9,NR-AR-LBD_fusion.csv,0.0
+10,NR-PPAR-gamma_fusion.csv,0.0
+11,NR-AR_fusion.csv,0.7324231214502538
+12,Cardiotoxicity-5_fusion.csv,0.044699015626767424
+13,SR-MMP_fusion.csv,0.0
+14,NR-AhR_fusion.csv,0.2249250511616239
+15,SR-p53_fusion.csv,0.3124666267458028
+16,Ames Mutagenicity_fusion.csv,0.0
+17,Cardiotoxicity-30_fusion.csv,-0.026490647141300876
+18,Carcinogenicity_fusion.csv,0.023688968483956716
